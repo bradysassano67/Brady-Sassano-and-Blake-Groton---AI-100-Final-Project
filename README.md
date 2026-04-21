@@ -61,6 +61,7 @@ AI-100-Final-Project/
 ├── accuracy_curve.png
 ├── loss_curve.png
 ├── confusion_matrix.png
+├── Screenshot 2026-03-01 at 8.06.14 PM.png
 └── README.md
 ```
 
