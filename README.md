@@ -53,6 +53,8 @@ The dataset consists of labeled news articles. The following preprocessing steps
 
 ```
 AI-100-Final-Project/
+├── Microsoft Excel PDF
+├── Microsoft Word Report PDF
 ├── train_lstm.py
 ├── requirements.txt
 ├── tokenizer.json
